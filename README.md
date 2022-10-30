@@ -1,5 +1,5 @@
 # VisitNPS
-National Park for foodie hiker
+National Park planner for a foodie hiker(me)
 
 ### Resources:
 https://www.recreation.gov/
